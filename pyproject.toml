@@ -50,7 +50,7 @@ bandit = "^1.7.1"
 black = "^22.12"
 isort = {extras = ["colors"], version = "^5.10.1"}
 pre-commit = "^2.15.0"
-coverage = "^6.1.2"
+coverage = "^7.4.2"
 coverage-badge = "^1.1.0"
 safety = "^2.3.5"
 darglint = "^1.8.1"
